@@ -1,0 +1,3 @@
+b phone 3|12|6500000|0
+redmi note 5|1|6000000|0
+samsung j2 pro|19|2800000|0
